@@ -7,7 +7,10 @@
 ---
 
 # Project Real Time Screen Recording
-![](./2026-06-07%2010-26-06%20(1)%20(1)%20(1).mp4)
+
+<video src="https://github.com/user-attachments/assets/c948476b-65f3-4bec-b683-51808127392b" width="100%" controls></video>
+
+
 
 # 📌 Project Description
 
