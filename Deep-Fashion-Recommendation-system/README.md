@@ -1,4 +1,4 @@
-# Deep-fashion-recommendation-system
+# Deep-Fashion-Recommendation-system
 
 A deep learning-based fashion recommendation system that suggests visually similar clothing items using CNN feature extraction (VGG16) and cosine similarity.
 
@@ -27,7 +27,7 @@ It leverages a pre-trained VGG16 Convolutional Neural Network to extract meaning
 * Dataset: Women Fashion Images
 * Format: `.jpg`, `.png`, `.jpeg`, `.webp`
 * Extracted from a ZIP file stored in Google Drive
-* Link : (https://drive.google.com/file/d/1KjHfcp8xjL1j-q5eJp8ucloQHhe7Xju7/view?usp=sharing)
+* Link: [Women Fashion Images (Google Drive)](https://drive.google.com/file/d/1KjHfcp8xjL1j-q5eJp8ucloQHhe7Xju7/view?usp=sharing)
 
 ⚠️ Dataset is not included due to size limitations.  
 You can use any fashion dataset from Kaggle.
@@ -42,7 +42,7 @@ You can use any fashion dataset from Kaggle.
 * Matplotlib
 * PIL (Python Imaging Library)
 * SciPy
-* Pickle
+* pickle (Python standard library)
 
 ---
 
@@ -77,7 +77,9 @@ You can use any fashion dataset from Kaggle.
 ## How to Run
 
 ### 1. Clone the Repository
-My repo : https://github.com/salonipandagale/Deep-fashion-recommendation-system
+Clone this repository and navigate to the project directory:
+ git clone [<REPO_URL>](https://github.com/Niketkumardheeryan/ML-CaPsule)
+ cd ML-CaPsule/Deep-Fashion-Recommendation-system
 
 ### 2. Install Dependencies
 
@@ -131,8 +133,13 @@ pickle.dump(all_image_names, open('filenames.pkl', 'wb'))
 
 ## Example Output
 
-Input: Anarkali suit
-Output: Similar ethnic wear recommendations based on design, color, and texture
+### Input: Anarkali suit
+<img width="356" height="475" alt="image" src="https://github.com/user-attachments/assets/8fd02a36-c7f6-4e6e-9478-4e12568c2704" />
+
+
+### Output: Similar ethnic wear recommendations based on design, color, and texture
+<img width="677" height="458" alt="image" src="https://github.com/user-attachments/assets/9f7107ab-a567-4157-8fd6-e0569c6846da" />
+<img width="685" height="550" alt="image" src="https://github.com/user-attachments/assets/a59fbf59-e7f3-4f7f-a261-640ef715ea69" />
 
 ---
 
@@ -167,7 +174,3 @@ This project is open-source and available under the MIT License.
 
 Saloni Pandagale
 **(Deep Learning and AI Enthusiast)**
-
-## Output Example
-Input image → System recommends visually similar outfits
-
