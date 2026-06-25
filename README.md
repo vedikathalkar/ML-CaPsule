@@ -63,6 +63,34 @@ Machine learning is crucial because it provides enterprises with insights into c
 - **Python IDE**: Install from [python.org](https://python.org)
 - **Learn Python**: If you're new to Python, start learning from [W3Schools](https://www.w3schools.com/python/python_ml_getting_started.asp)
 
+### 🎨 Getting Started with R Language & RStudio
+
+#### What is R?
+R is an open-source programming language and free software environment designed specifically for statistical computing, data analytics, and scientific research. It is widely used by data scientists and statisticians for data manipulation, calculation, and graphical display.
+
+#### How to Install R and RStudio IDE
+To start setting up your environment for R-based data science models, follow these steps:
+
+1. **Install R Environment:**
+   - Go to the official CRAN repository: [Download R from CRAN](https://cran.r-project.org/)
+   - Choose your respective operating system (Windows, macOS, or Linux) and download the latest binary installer.
+   - Run the installer setup and follow the default configuration prompts.
+
+2. **Install RStudio Desktop IDE:**
+   - Go to the official Posit website: [Download RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+   - Scroll down to the installer section and download the free version for your OS.
+   - Install the executable/package file. RStudio will automatically detect your local R installation.
+
+#### 📚 Recommended Video Tutorials for Beginners
+To master R programming from basic to advanced levels, check out these comprehensive video resources:
+
+- 🎥 **[R Programming Full Course for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=_V8eKsto3Ug)** - A complete, hands-on masterclass covering vectors, data frames, and statistical operations.
+- 🎥 **[R Programming Tutorial - Learn the Basics (Edureka)](https://www.youtube.com/watch?v=KlsYv-ZSSb0)** - Excellent fundamental guide focusing on syntax, variables, and IDE setup.
+- 🎥 **[Data Science with R Full Course (Simplilearn)](https://www.youtube.com/watch?v=9kYUUFMsh88)** - Comprehensive track covering basic programming up to advanced data analysis and visualization.
+- 🎥 **[Introduction to R for Data Science (DataCamp)](https://www.youtube.com/watch?v=33W_VInE-zU)** - Quick interactive overview perfect for complete beginners looking to dive into analytics.
+
+
+
 ## 🗂️ Topics Covered
 
 ### 1. Extracting Data
